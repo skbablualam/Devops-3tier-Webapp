@@ -69,6 +69,9 @@ Ensure you have set the following GitHub repository secrets:
 
 ![project](https://github.com/user-attachments/assets/e15694bb-c1bf-41bc-907c-3c0bfe8d1627)
 
+![image](https://github.com/user-attachments/assets/d754ee91-728e-42a0-bdcb-9214c6d779b1)
+
+
 ## 🙌 Credits
 Built by [Bablu Alam](https://www.linkedin.com/in/bablu-alam-040169143/)
 
