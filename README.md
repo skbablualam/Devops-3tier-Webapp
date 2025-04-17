@@ -60,8 +60,8 @@ Ensure you have set the following GitHub repository secrets:
 - `EC2_SSH_KEY`
 
 ## 📷 Project Diagram
-![DevOps Diagram](https://raw.githubusercontent.com/skbablualam/Devops-3tier-Webapp/main/A_2D_digital_graphic_showcases_a_DevOps_3-Tier_Web.png)
-
+![DevOps Diagram](![project diagram](https://github.com/user-attachments/assets/d5d649d5-6ca7-40b2-b792-af4a16c153b9)
+)
 ## 🙌 Credits
 Built by [Bablu Alam](https://www.linkedin.com/in/bablu-alam-040169143/)
 
