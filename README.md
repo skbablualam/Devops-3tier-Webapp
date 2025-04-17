@@ -8,7 +8,7 @@ This project demonstrates a full DevOps workflow:
 - CI/CD pipeline with GitHub Actions
 - Deployed on AWS using Terraform
 
-## Structure
+## Files Structure
 
 ![structure](https://github.com/user-attachments/assets/615c409e-b9a3-49ec-9b92-dee8a5756931)
 
