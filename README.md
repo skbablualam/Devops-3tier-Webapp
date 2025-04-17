@@ -34,7 +34,7 @@ The GitHub Actions workflow does the following:
 ```bash
 git clone https://github.com/skbablualam/Devops-3tier-Webapp.git
 cd Devops-3tier-Webapp
-docker-compose up --build
+docker-compose up --build -d
 ```
 Access the app:
 - Frontend: http://localhost:8080
@@ -63,6 +63,11 @@ Ensure you have set the following GitHub repository secrets:
 
 ![project diagram](https://github.com/user-attachments/assets/9e2c4d76-e1ec-4c4b-ae12-a0346d540d0a)
 
+## 📸 Screenshot
+
+![dockerproject](https://github.com/user-attachments/assets/d855c19c-8443-4a2c-9e1e-3f04516f1d4d)
+
+![project](https://github.com/user-attachments/assets/e15694bb-c1bf-41bc-907c-3c0bfe8d1627)
 
 ## 🙌 Credits
 Built by [Bablu Alam](https://www.linkedin.com/in/bablu-alam-040169143/)
