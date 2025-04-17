@@ -72,6 +72,6 @@ Suggestions, improvements, and forks are welcome. Drop a ⭐ if you find this us
 
 ---
 
-> "Learn by doing. Automate everything. Stay humble."
+> Learn by doing. Automate everything. Stay humble.
 
 ---
