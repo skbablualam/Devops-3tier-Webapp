@@ -60,8 +60,10 @@ Ensure you have set the following GitHub repository secrets:
 - `EC2_SSH_KEY`
 
 ## 📷 Project Diagram
-![DevOps Diagram](![project diagram](https://github.com/user-attachments/assets/d5d649d5-6ca7-40b2-b792-af4a16c153b9)
-)
+
+![project diagram](https://github.com/user-attachments/assets/9e2c4d76-e1ec-4c4b-ae12-a0346d540d0a)
+
+
 ## 🙌 Credits
 Built by [Bablu Alam](https://www.linkedin.com/in/bablu-alam-040169143/)
 
